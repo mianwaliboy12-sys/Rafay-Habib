@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Center our beautiful custom-generated Mercantile storefront logo inside the 108dp canvas safe zone -->
+    <item
+        android:width="72dp"
+        android:height="72dp"
+        android:drawable="@drawable/kiryana_logo"
+        android:gravity="center" />
+</layer-list>

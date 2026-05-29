@@ -1,0 +1,6 @@
+{
+  "name": "Kiryana Ledger",
+  "description": "Grocery Store Management & Udhaar Ledger App for Kiryana Stores in Pakistan. Includes Inventory, Barcode Scanner, POS, Credit/Debit (Udhaar) ledger, and Expense tracker with English & Urdu support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
